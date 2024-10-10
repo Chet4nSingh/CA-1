@@ -2,3 +2,4 @@ Name: Chetan Singh
 Father's Name: Diwan Singh
 Reg no. 12219740
 Roll no. 01
+Specialization: Full Stack Web Development
